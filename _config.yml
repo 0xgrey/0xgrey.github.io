@@ -20,7 +20,7 @@ title                    : "grey's blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "grey"
-description              : "OSCP, OSWE.\nCTFs, Pentesting, Writeups, and more."
+description              : "OSCP, OSWE.<br>CTFs, Pentesting, Writeups, and more."
 url                      : "https://0xgrey.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "0xgrey/0xgrey.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
