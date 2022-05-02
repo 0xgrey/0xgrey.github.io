@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "grey"
   avatar           : "/assets/images/marvin.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "CTFs, Pentesting, Writeups, and more."
+  bio              : "OSCP, OSWE.<br>CTFs, Pentesting, Writeups, and more."
   location         : "Mars"
   email            :
   links:
