@@ -7,8 +7,7 @@ title: "Testing my Blog Setup"
 
 Hello
 
-```
-python3
+```python3
 
 import random
 
